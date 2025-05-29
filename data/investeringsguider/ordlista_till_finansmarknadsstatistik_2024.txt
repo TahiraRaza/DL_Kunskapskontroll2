@@ -1,0 +1,740 @@
+SCB – Ordlista till Finansmarknadsstatistiken 2 av 14 
+ 
+Datum 
+1 av 14 
+2024-11-25 
+ 
+Ordlista till 
+Finansmarknadsstatistiken 
+ 
+ 
+ 
+ 
+ 
+ 
+Ordlista till 
+Finansmarknadsstatistiken 
+ 
+Alternativa investeringsfonder (AIF) 
+ 
+Alternativa investeringsfonder (AIF) avser AIF vars tillgångar i 
+huvudsak består av bostadslån. De AIF som ingår i 
+Finansmarknadsstatistiken är kopplade till bostadskreditinstitut. Ett 
+bostadskreditinstitut kan sälja sina lån till en eller flera AIF:er och på så 
+sätt finansiera sin utlåning. Oftast behåller bostadskreditinstituten 
+själva administrering av lånen och kontakten med bolånetagarna. 
+ 
+Avbetalningskredit 
+ 
+Avbetalningskredit är en låneform som kan användas vid köp av till 
+exempel maskiner och fordon. Varan ägs av låntagaren och utgör 
+säkerhet för lånet vilket betyder att inga andra säkerheter eller borgen 
+krävs. Avbetalningskredit är inte att förväxla med delbetalning av 
+kortkredit eller andra lån där det köpta objektet inte utgör säkerhet för 
+lånet. 
+ 
+Avistakonto 
+ 
+Med avistakonton avses inlåning utan överenskommen löptid, 
+uppsägningstid eller betydande restriktioner i uttagsvillkoren. Till 
+avistakonton räknas exempelvis lönekonton och sparkonton med fria 
+uttag. 
+ 
+Belåningsbara statsskuldsförbindelser m.m. 
+ 
+Enligt Finansinspektionens författningssamling FFFS 2008:25 är 
+följande tillgångar att ses som belåningsbara statsskuldförbindelser: 
+ 
+"1. Statsskuldförbindelser, statsobligationer, statsskuldväxlar och andra 
+liknande värdepapper som är emitterade av offentliga organ och 
+belåningsbara i centralbanken i den stat där institutet är etablerat. 2. 
+Andra värdepapper som är belåningsbara i centralbanken i den stat där 
+institutet är etablerat, om belåningsbarheten följer av nationell 
+lagstiftning.” 
+ 
+SCB – Ordlista till Finansmarknadsstatistiken 3 av 14 
+ 
+MFI:s innehav av belåningsbara statsskuldförbindelser m.m. redovisas i 
+tabell 7.17.1. i publikationen Finansmarknadsstatistik 
+ 
+Betalkortsfordringar och kontokortskrediter 
+ 
+Betalkortsfordringar avser kortkredit där ingen ränta utgår från det att 
+kortet använts tills dess att nästkommande faktura regleras. Vid 
+betalkorts-fordringar beviljas kontoinnehavaren ett räntefritt anstånd, 
+ofta mellan 30 och 40 dagar, med betalning av det belopp som 
+debiterats kontot under en viss period varefter skulden återbetalas. Det 
+är numera vanligt att kortinnehavaren efter den räntefria perioden kan 
+välja att dela upp återbetalningen mot ränta. Den kvarvarande krediten 
+räknas i dessa fall som kontokortskredit. 
+ 
+Kontokortskredit är en kredit som inte reglerats vid nästföljande 
+fakturering, i regel utgår ränta på kontokortskrediter. 
+ 
+MFI:s utlåning i form av betalkort/kontokortskrediter redovisas i tabell 
+7.7. i publikationen Finansmarknadsstatistik. 
+ 
+Debetkort eller bankkort ingår inte i uppgifterna eftersom beloppet vid 
+kortköp i dessa fall dras från ett inlåningskonto. Kortinnehavarens 
+tillgångar på kontot minskar men det uppstår normalt ingen skuld för 
+kortinnehavaren. 
+ 
+Antal utgivna betal- och kreditkort redovisas i tabell 7.8. Statistik över 
+antalet kort av olika typ och transaktioner publiceras också årsvis av 
+Europiska centralbanken på deras hemsida www.ecb.int i "Statistical 
+Data Warehouse" - "Payments and securities trading, clearing, 
+settlements". 
+ 
+Blancokrediter 
+ 
+Blancokrediter eller blancolån är lån som beviljats utan någon säkerhet 
+eller borgen. Ofta har denna typ av lån en hög ränta jämfört med lån 
+där det finns säkerhet, till exempel bostadslån. 
+ 
+I statistiken ingår även betalkortsfordringar och kontokortskrediter i 
+blancokrediter då de i regel saknar säkerhet. 
+ 
+Borgen, kommunal 
+ 
+Då en kommun går i borgen för ett lån kallas säkerheten kommunal 
+borgen. Vanligtvis ges kommunal borgen till företag där kommunen har 
+ett ägarintresse, till exempel kommunala bostadsföretag men 
+föreningar och ideella organisationer med flera kan också få kommunal 
+borgen som säkerhet. Vid kommunal borgen övertar kommunen den 
+risk som är knuten till lånet och ofta medför detta en förmånligare 
+SCB – Ordlista till Finansmarknadsstatistiken 4 av 14 
+ 
+ 
+ 
+ränta än om enbart ett pantbrev kan erbjudas som säkerhet. 
+Förmånligare ränta och utebliven kostnad för pantbrev har gjort 
+kommunal borgen till en vanlig säkerhet. För mer information om 
+kommunal borgen se SOU 2008:38. 
+ 
+Borgen, statlig 
+ 
+Statlig borgen, eller så kallad kreditgaranti, är exempelvis borgen 
+utfärdad av Statens bostadskreditnämnd (BKN), Statliga 
+exportgarantilån från Exportkreditnämnden (EKN), borgen från 
+länsstyrelser och garantier från Riksgäldskontoret (RGK). Kreditgaranti 
+från BKN är "... en försäkring som långivare kan teckna för lån till ny- 
+och ombyggnad av bostäder och vid förvärv av fastighet som ombildas 
+till kooperativ hyresrätt." (www.bkn.se) 
+ 
+Bostadsinstitut 
+ 
+Bostadsinstitut är en undergrupp till MFI och tillhör sektor 122300 
+(bostadsinstitut) enligt INSEKT 2014. 
+ 
+Bostadskreditinstitut 
+ 
+Bostadskreditinstitut är institut som har tillstånd att ge ut 
+bostadskrediter enligt Finansinspektionen. Bostadskreditinstitut 
+klassas inte som MFI och tillhör sektor 125300 (finansiella bolag med 
+utlåningsverksamhet) enligt INSEKT 2014. Insamlingen av 
+bostadskreditinstitut började i december 2018 och publicerades första 
+gången i februari 2020. 
+ 
+Bostadslån (lån efter ändamål) 
+ 
+Bostadslån definieras som "krediter för inköp av bostad för eget bruk 
+eller uthyrning, inklusive lån för byggnation och renovering" 
+(ECB/2021/2). 
+ 
+I Sverige samlas inte uppgift om ändamål in direkt utan skattas utifrån 
+rapporterad säkerhet. I bostadslån ingår alla lån till hushåll där småhus, 
+ägarlägenhet eller bostadsrätt utgör säkerhet för lånet. För ytterligare 
+beskrivning av hur ändamål beräknas se del 7. Balansposter i 
+publikationen Finansmarknadsstatistik. 
+ 
+Bostadsrätter 
+ 
+Med bostadsrätt avses en lägenhet eller ett småhus som ägs av en 
+förening (bostadsrättsförening) i vilken bostadsinnehavaren är medlem. 
+ 
+ 
+ 
+SCB – Ordlista till Finansmarknadsstatistiken 5 av 14 
+ 
+Bostadsrättsförening 
+ 
+Bostadsrättsföreningar räknas som icke-finansiella företag. Om ett 
+hushåll tar lån för att köpa en bostadsrätt är det utlåning till hushåll 
+(oftast med bostadsrätten som säkerhet). Om en bostadsrättsförening 
+tar ett lån, till exempel vid bildande eller vid reparationer, är detta ett 
+lån till icke-finansiella företag. Utlåning till bostadsrättsföreningar 
+särredovisas i del 7.3 i publikationen Finansmarknadsstatistik. 
+ 
+Byggnadskrediter/Byggnadskreditiv 
+ 
+Utlåning för att finansiera uppförandet av nya fastigheter eller 
+ombyggnad av befintliga fastigheter. Räntan på krediten är oftast rörlig 
+och beräknas på det belopp som utnyttjas. 
+ 
+Certifikat 
+ 
+Certifikat är räntebärande omsättningsbara värdepapper som vanligtvis 
+har en löptid på högst 1 år men kan i undantagsfall ha en löptid på upp 
+till 2 år. 
+ 
+I statistiken finns certifikat redovisat i tabell 7.17 i publikationen 
+Finansmarknadsstatistik. För emitterade värdepapper finns förutom en 
+uppdelning på instrumenttyp även en uppdelning på löptid. 
+ 
+Dagslån 
+ 
+Dagslån är lån med en avtalad löptid på en bankdag. Stor del av 
+dagslånemarknaden, liksom repotransaktioner, sker mellan 
+kreditinstitut eller mellan kreditinstitut och Riksbanken. 
+ 
+Derivatinstrument 
+ 
+Derivatinstrument är finansiella instrument vars värde är beroende av 
+vissa underliggande tillgångar, till exempel aktier, räntor eller 
+råvaruindex. Derivatinstrument används bland annat för att hantera 
+valutakurs- och ränterisker (Guidelines to the international locational 
+banking statistics, www.bis.org). 
+ 
+I statistiken redovisas derivatinstrument med positiva marknadsvärden 
+under tillgångar och derivatinstrument med negativa marknadsvärden 
+under skulder. Motpartsfördelningen av derivat i tabell 7.18 i 
+publikationen Finansmarknadsstatistik görs efter derivatets 
+avtalsmotpart och inte efter underliggande tillgång. 
+ 
+Dotterbolag 
+ 
+Med dotterbolag avses en juridisk person vars röster för samtliga aktier 
+eller andelar till över 50 procent ägs av ett annat bolag, så kallat 
+moderbolag. För att definieras som ett dotterbolag krävs också att 
+SCB – Ordlista till Finansmarknadsstatistiken 6 av 14 
+ 
+ 
+ 
+moderbolaget har rätt att ensamt utöva bestämmande inflytande över 
+dotterbolaget. För mer detaljerad information se Aktiebolagslagen 
+(2005:551). 
+ 
+I Finansmarknadsstatistiken sker redovisningen i regel på 
+moderbolagsnivå. Om en finansiell koncern har en bank, ett 
+bostadsinstitut och ett försäkringsbolag i Sverige kommer banken att 
+ingå under banker och bostadsinstitutet under bostadsinstitut. 
+ 
+Både banker och bostadsinstitut är MFI. Försäkringsbolag räknas 
+däremot inte som MFI. Svenska instituts utländska döttrar ingår inte i 
+statistiken. 
+ 
+Factoring och factoringkrediter 
+ 
+Factoring innebär att ett företag finansierar sig genom belåning eller 
+försäljning av sina kundfordringar till ett finansbolag (fakturabelåning 
+resp. fakturaköp). Med factoringkredit (fakturabelåning) menas kredit 
+där kundfordringarna utgör säkerhet. Vid factoringkredit kan 
+finansbolaget överta administrationen av kundfordringarna och i vissa 
+fall även kreditrisken. Även av institut köpta fakturafordringar ingår. 
+ 
+I del 7.6 i publikationen Finansmarknadsstatistik sammanställs 
+statistik om factoringkrediter. Statistiken avser de factoringkrediter 
+som ges av MFI, andra finansiella företag kan dock också ha 
+factoringverksamhet. 
+ 
+Filial 
+ 
+Med filial avses ett avdelningskontor med självständig förvaltning 
+genom vilket ett institut driver verksamhet i annat land. Filialen är en 
+del av institutet men ska ha egen bokföring som ska vara helt skild från 
+institutets bokföring i övrigt och ha en verkställande direktör. 
+ 
+I statistiken ingår svenska MFI:s filialer i utlandet i alla delar i 
+publikationens Finansmarknadsstatistik, utom i del 5 
+Penningmängden, där endast verksamhet bedriven inom Sverige ingår. 
+I balansräkningarna, del 6 särredovisas svenska MFI:s filialer i utlandet. 
+ 
+Flerbostadshus 
+ 
+Med flerbostadshus avses hus med minst tre bostadslägenheter. 
+ 
+Företagarhushåll 
+ 
+Företagarhushåll avser hushåll vars största inkomst härrör från rörelse 
+med eller utan anställda. Företagarhushåll är inte en juridisk person. 
+ 
+ 
+ 
+SCB – Ordlista till Finansmarknadsstatistiken 7 av 14 
+ 
+I företagarhushåll ingår: 
+ 
+• 
+inkomst från rörelse bedriven i eget namn 
+• 
+delägarskap i enkelt bolag 
+• 
+partrederi eller motsvarande som inte är juridisk person 
+• 
+jordbruksfastighet som inte är utarrenderat och annan fastighet. 
+Företagsinteckning 
+ 
+Företagsinteckning är en säkerhet i form av företagsinteckningsbrev. 
+Bolagsverket är den svenska myndighet som sköter 
+företagsinteckningar. 
+ 
+Förlagslån och förlagsbevis 
+ 
+Med förlagsbevis avses ett räntebärande skuldebrev med löptid på flera 
+år som ges ut av banker, industriföretag och bostadsinstitut. 
+Förlagsbeviset är ett intyg på att innehavaren har lånat ut pengar utan 
+specifik säkerhet. Förlagslån är ett lån vars andelar betecknas 
+förlagsbevis. Vid en företagskonkurs ger förlagslån rätt till betalning 
+först efter att andra skulder är betalda. Detta betyder en högre risk för 
+innehavare av förlagslån jämfört med obligationer och därmed oftast 
+också en högre ränta. Förlagslån vänder sig främst till institutionella 
+placerare. 
+ 
+MFI:s förlagslån redovisas i del 7.17. i publikationen 
+Finansmarknadsstatistik 
+ 
+Hushållens icke-vinstdrivande organisationer (HIO) 
+ 
+Med hushållens icke-vinstdrivande organisationer (HIO) avses icke- 
+vinstdrivande organisationer som inte är marknadsproducenter och 
+som betjänar hushållssektorn med syfte att tillvarata hushållens 
+intressen eller bedriva humanitär hjälpverksamhet. 
+ 
+Här ingår exempelvis: 
+• 
+fackföreningar, yrkesförbund, politiska partier, kyrkor och religiösa 
+samfund, sociala och kulturella föreningar samt fritids- och 
+idrottsklubbar som inte är vinstdrivande 
+• 
+välgörenhets-, stöd- och hjälporganisationer 
+• 
+stipendiestiftelser och donationsfonder. 
+För mer om sektorindelning, se SCB: Standard för institutionell 
+sektorindelning 2014, INSEKT 2014. 
+ 
+In- och upplåning 
+ 
+In- och upplåning från hushåll visar hushållens kontosparande i banker 
+och andra MFI. Inlåning definieras som belopp som uppgiftslämnare är 
+skyldiga sina fordringsägare exklusive belopp som hänför sig till 
+emitterade överlåtbara värdepapper. Uttrycket upplåning används ofta 
+SCB – Ordlista till Finansmarknadsstatistiken 8 av 14 
+ 
+ 
+ 
+även för emitterade värdepapper vilket alltså inte är fallet i 
+Finansmarknadsstatistiken. Distinktionen mellan in- och upplåning 
+kan variera, en uppdelning är utifrån vem som tar initiativet eller att 
+det inte är möjligt att neka inlåning. 
+ 
+Indelning efter olika typer av konton visas i del 5. Penningmängden i i 
+publikationen Finansmarknadsstatistik där avistainlåning i 
+Sverigebaserade MFI och Riksgäldskontoret redovisas under M1 och 
+inlåning med vissa villkor (se nedan) redovisas under M2. 
+ 
+I del 7.14 i publikationen Finansmarknadsstatistik redovisas in- och 
+upplåning efter typ av inlåning med särredovisning av bl.a. inlåning 
+med överenskommen löptid (se nedan) och inlåning med 
+uppsägningstid (se nedan). 
+ 
+Indexobligation 
+ 
+Indexobligation eller aktieindexobligation är en finansiell produkt med 
+en obligation som bas. Till obligationen knyts optioner med en eller 
+flera underliggande tillgångar, exempelvis aktier eller räntor. 
+Avkastningen på indexobligationen är beroende av utvecklingen på de 
+underliggande tillgångarna. Genom att investera i indexobligationer är 
+investeraren garanterad att få tillbaka investerat belopp (exkl. avgifter 
+och ev. överkurs och under förutsättning att emitterande institut inte 
+går i konkurs) men kan samtidigt ta del av den eventuella värdeökning 
+som den underliggande tillgången ger. Generellt gäller dock att 
+avkastningen inte är lika hög som en direktinvestering i den 
+underliggande tillgången. 
+ 
+Indexobligationer särredovisas i del 7.17. i publikationen 
+Finansmarknadsstatistik. 
+ 
+Individuellt pensionssparande (IPS) 
+ 
+Individuellt pensionssparande (IPS) är ett pensionssparande utan 
+försäkringsinslag. Sparandet kan ske i fonder, obligationer, aktier eller 
+på konto. IPS är endast ämnat privatpersoners eget pensionssparande. 
+För att ett företag ska få erbjuda IPS och kalla sig för 
+pensionssparinstitut krävs tillstånd från Finansinspektionen. 
+Pensionssparinstitut kan vara t.ex. banker och värdepappersbolag. IPS 
+utgör bara en mindre del av pensionssparandet. Vid sidan av 
+socialförsäkringssystemet och Pensionsmyndigheten (tidigare 
+Premiepensionsmyndigheten, PPM) står livförsäkringsbolag för en stor 
+del av pensionssparandet, både det privata pensionssparandet och 
+tjänstepensionen. Tjänstepension kan också hanteras av 
+tjänstepensionskassor, pensionsstiftelser eller av företagen själva. 
+ 
+ 
+ 
+SCB – Ordlista till Finansmarknadsstatistiken 9 av 14 
+ 
+Inlåning med uppsägningstid 
+ 
+Här avses inlåning med uppsägningstid där insättningen inte kan tas ut 
+i kontanter innan uppsägningstidens utgång eller endast kan tas ut mot 
+avgift eller försämring av räntevillkoren. Även konton med begränsat 
+antal fria uttag per år ingår här. 
+ 
+Inlåning med vissa villkor 
+ 
+Inlåning med vissa villkor används för definition av 
+penningmängdsmåttet M2. Med inlåning med vissa villkor avses 
+inlåning med uppsägningstid t.o.m. 3 månader eller inlåning med 
+överenskommen löptid t.o.m. 2 år. 
+ 
+Inlåning med överenskommen löptid 
+ 
+Inlåning med överenskommen löptid avser inlåning med avtalad löptid 
+som inte kan tas ut i kontanter under denna tid eller som under denna 
+tid endast kan tas ut i kontanter mot avgift eller försämring av 
+räntevillkoren. Med överenskommen löptid avses den ursprungliga 
+löptiden under vilken insättningen är låst eller omgärdad av 
+uttagsrestriktioner. Här ingår t.ex. fasträntekonton och andra konton 
+där insättningen inte fritt kan tas ut innan ett förutbestämt datum. 
+ 
+Konsumtionskrediter (lån efter ändamål) 
+ 
+Konsumtionskrediter definieras som "lån som beviljas främst för 
+personlig konsumtion av varor och tjänster" (ECB/2021/2)). 
+ 
+I Sverige samlas inte uppgift om ändamål in direkt utan uppskattas. I 
+konsumtionskrediter ingår utlåning från MFI till andra hushåll än 
+företagarhushåll där övrig borgen (ej statlig eller kommunal) är 
+säkerhet för lånet eller där lånet saknar säkerhet. 
+ 
+I konsumtionskrediter ingår betalkortsfordringar och 
+kontokortskrediter då de i regel saknar säkerhet. För ytterligare 
+beskrivning av hur ändamål beräknas se 7. Balansposter. i 
+publikationen Finansmarknadsstatistik. 
+ 
+Kontraktskrediter 
+ 
+För att frigöra uppbundet kapital kan ett företag belåna sina kontrakt. 
+Denna typ av kredit kallas kontraktskredit eller kontraktsbelåning. 
+ 
+I statistiken avses belåning av kontrakt hos MFI. Kontrakt som kan 
+belånas är t.ex. avbetalningskontrakt och leasingkontrakt. Även av 
+institut köpta avbetalningskrediter ingår. 
+ 
+ 
+ 
+SCB – Ordlista till Finansmarknadsstatistiken 10 av 14 
+ 
+Lantbruksfastigheter 
+ 
+Med lantbruksfastighet menas det som i Fastighetstaxeringslag 
+(1979:1152) benämns lantbruksenhet. I lantbruksfastighet ingår 
+byggnad för jordbruk och skogsbruk såsom djurstall, lada eller 
+maskinhall tillsammans med åkermark, betesmark, skogsmark och 
+skogsimpediment (skogsmark med låg virkesproduktion). Även småhus 
+och tomtmark som ligger på lantbruks-enheten räknas som 
+lantbruksfastighet. 
+ 
+Leasing, finansiell 
+ 
+Finansiell leasing kan ses om ett avbetalningsköp. Vid finansiell leasing 
+står den s.k. leasetagaren själv för till exempel underhåll och service av 
+varan. Avgiften leasetagaren betalar ska täcka upp för de kostnader det 
+s.k. leasingbolaget har för anskaffandet av varan, finansiella kostnader 
+m.m. När kontraktstiden är slut kan eventuellt äganderätten övergå 
+från leasingbolaget till leasetagaren. För mer detaljerad information se 
+Ekonomistyrningsverkets hemsida, www.esv.se. 
+ 
+Finansiell leasing ingår i utlåningen. Operationell, finansiell och 
+objektsfördelad leasing redovisas i del 7.12 
+ 
+Leasing, operationell 
+ 
+Operationell leasing kan ses om ett vanligt hyresavtal. Det s.k. 
+leasingbolaget köper utrustning som sedan hyrs ut till den s.k. 
+leasetagaren mot en avgift. Vid operationell leasing står leasingbolaget 
+för t.ex. underhåll och service av varan. Avgiften leasetagaren betalar 
+ska täcka finansiella kostnaderna för varan samt kostnader för 
+underhåll och service m.m. För mer detaljerad information se 
+Ekonomistyrningsverkets hemsida, www.esv.se. Operationell leasing 
+ingår inte i statistiken över utlåningen. Operationell, finansiell och 
+objektsfördelad leasing redovisas i del 7.12. i publikationen 
+Finansmarknadsstatistik. 
+ 
+Leasingobjekt 
+ 
+I del 7.12 i publikationen Finansmarknadsstatistik presenteras 
+objektfördelad leasing. 
+ 
+Lätta lastbilar är bilar som huvudsakligen används för godsbefordran 
+eller annan bil än personbil eller buss och där totalvikten är på högst 
+3,5 ton. 
+ 
+Medicinsk utrustning innehåller, förutom utrustning för hälso- och 
+sjukvård samt tandvård, även veterinärutrustning. 
+ 
+Övriga leasingobjekt kan exempelvis vara maskiner inom massa- och 
+pappersindustrin samt energiutrustning. 
+SCB – Ordlista till Finansmarknadsstatistiken 11 av 14 
+ 
+ 
+ 
+Moderbolag 
+ 
+För att ett aktiebolag ska definieras som ett moderbolag krävs bl.a. att 
+aktiebolaget har mer än 50 procent av rösterna för samtliga aktier eller 
+andelar i en annan juridisk person (s.k. dotterbolag). Det krävs också att 
+aktiebolaget har rätt att ensamt utöva bestämmande inflytande över 
+dotterbolaget. För mer detaljerad information se Aktiebolagslagen 
+(2005:551). 
+ 
+Monetära basen 
+ 
+Begreppet monetär bas är ett mått på finansieringsbasen för 
+penningmängden. 
+ 
+I den monetära basen ingår: 
+• 
+Utelöpande sedlar och mynt 
+• 
+MFI:s inlåning i Riksbanken 
+• 
+Fordringar på Riksbanken till följd av emitterade riksbankscertifikat. 
+Nya avtal (räntestatistiken) 
+Med nya avtal menas avtal som ingåtts under den aktuella månaden. 
+Nya avtal innefattar: 
+• 
+Alla finansiella avtal där villkor och förutsättningar som påverkar 
+räntan på in- eller utlåning för första gången bestäms. 
+• 
+Alla nya avtal som är resultatet av direkta förhandlingar rörande 
+existerande in- och utlåning. I direkta förhandlingar ingår bland 
+annat flytt av lån, förtidsinlösning och omförhandlingar. 
+• 
+Förlängningar av existerande avtal som indirekt innebär 
+omförhandlingar av villkor och förutsättningar. 
+• 
+Sparande på konto där det inte finns ett i förväg fastställt belopp för 
+månadsvis sparande. 
+För utlåningen räknas hela utestående beloppet på transaktionskonto 
+med kredit och dagslån som nya avtal. Detta berör främst 
+nedbrytningarna samtliga lån och konsumtionskrediter. Lån med 
+räntebindningstid berörs inte. För inlåningen räknas hela utestående 
+beloppet för dagslån, avistainlåning och inlåning med uppsägningstid 
+som nya avtal. Detta berör främst inlåningskategorin "samtliga 
+konton". 
+ 
+Obligationer 
+ 
+Obligationer är räntebärande värdepapper med en löptid från oftast ett 
+år (undantagsfall) och längre. Obligationer finns som s.k. nollkupongs- 
+obligationer och kupongobligationer. Nollkupongsobligationerna ökar i 
+värde fram till den dag de förfaller medan kupongobligationen ger 
+avkastning löpande. 
+SCB – Ordlista till Finansmarknadsstatistiken 12 av 14 
+ 
+ 
+ 
+Statistiken i del 6 Värdepappersmarknaden avser emissioner av 
+obligationer på den svenska marknaden i svenska kronor. 
+ 
+Nödlidande lån (oreglerade lånefordringar) 
+ 
+Ett lån klassas som nödlidande då lånet uppfyller minst ett av  
+följande kriterier: 
+• 
+Hela eller en del av ränte- eller kapitalbeloppet har varit förfallet till 
+betalning och obetalt i mer än 90 dagar 
+• 
+Det bedöms föreligga risk att lånet inte kommer att återbetalas till 
+fullo utan utnyttjande av säkerhet. 
+Definitionen motsvarar definitionen i tillsynsrapporteringen FINREP. 
+ 
+I del 7.11 i publikationen Finansmarknadsstatistik sammanställs 
+statistik över storleken på nödlidande låne. De nödlidande lånen 
+sätts även i relation till den totala utlåningen. 
+ 
+Outnyttjade krediter 
+ 
+Med outnyttjade kreditmöjligheter avses åtaganden att lämna kredit, att 
+köpa värdepapper eller att utfärda garantier eller accepter i enlighet med 
+direktiv 2013/36/EU och Rådets förordning (EU) nr 575/2013 om poster 
+utanför balansräkningen med medelrisk, medel-lågrisk och lågrisk. 
+I statistiken över outnyttjade kreditmöjligheter ingår även lånelöften till 
+hushåll för bostadslån, oavsett riskklassificering för kapitaltäckningsmål. 
+ 
+Penningmarknadsfonder 
+ 
+Från januari 2012 ändrades definitionen av penningmarknadsfonder för 
+att harmonisera med ECB:s statistik och European Securities and 
+Markets Authoritys (ESMA:s) vägledning om penningmarknadsfonder. 
+En av flera skillnader mot tidigare definition är att hela portföljen nu 
+får ha en vägd genomsnittlig räntebindningstid på högst 6 månader och 
+en vägd genomsnittlig löptid på högst ett år. Dessutom får varje enskilt 
+värdepapper i fonden max ha en återstående löptid på två år och en 
+återstående räntebindningstid på max 397 dagar. Tidigare var 
+definitionen att ursprunglig löptid fick vara max 397 dagar eller att den 
+genomsnittliga löptiden för portföljen fick vara max 397 dagar. I och 
+med definitionsförändringen minskade antalet penningmarknadsfonder 
+(monetära investeringsfonder). Eftersom ESMA:s vägledning inte 
+införts i svensk lag kan fonder ha ordet penningmarknadsfond i namnet 
+utan att uppfylla ESMA:s definition. 
+ 
+Postväxlar 
+ 
+Riksbankens publikation ”Den svenska finansmarknaden 2009” 
+beskriver en postväxel enligt följande "Postväxeln är ett säkert 
+betalningsmedel som används vid större inköp som ska betalas kontant 
+som till exempel ett hus- eller bilköp. Den köps, hos någon av de svenska 
+bankerna, för ett önskat belopp och ställs ut på mottagaren eller på 
+köparen av postväxeln. Om den ställs på köparen kan den vid ett senare 
+SCB – Ordlista till Finansmarknadsstatistiken 13 av 14 
+ 
+tillfälle överlåtas till mottagaren och då utgör den ett säkert betalningssätt 
+eftersom den redan är betald". 
+ 
+Postväxlar särredovisas i del 7.17 i publikationen 
+Finansmarknadsstatistik. 
+ 
+Privatobligationer 
+ 
+Obligationer som riktar sig till privatpersoner kallas för 
+privatobligationer. Privatobligationer är normalt upptagna till handel 
+på börs och kan handlas i små handelsposter. 
+ 
+I statistiken räknas också s.k. säkerställda privatobligationer som 
+privatobligationer. Privatobligationer särredovisas i del 7.17 i 
+publikationen Finansmarknadsstatistik. 
+ 
+Repor 
+ 
+En repa eller äkta återköpsavtal kan definieras som "ett avtal där den 
+ena parten förbinder sig att sälja ett värdepapper till en motpart i utbyte 
+mot likvida medel. Samtidigt sker en överenskommelse om att 
+värdepapperet ska köpas tillbaka till ett bestämt pris vid en given tidpunkt i 
+framtiden". (Den svenska finansmarknaden 2016, Sveriges Riksbank). 
+Vid dessa återköpsavtal finns det sålda värdepapperet kvar i säljarens 
+balansräkning. Erlagd och erhållen köpeskilling ingår i utlåning 
+respektive inlåning. Repor är vanligtvis korta vilket gör att volymen kan 
+variera kraftigt. 
+ 
+Reverskredit 
+ 
+Reverskredit eller reverslån avser en skriftlig skuldförbindelse eller 
+utfästelse av en låntagare. En revers innehåller som regel uppgifter om 
+lånets villkor (dvs. lånebelopp, ränta, säkerhet, löptid samt 
+räntebetalningsdagar). Lån mot revers är bankernas och 
+bostadsinstitutens vanligaste utlåningsform. 
+ 
+Småhus 
+ 
+Småhus avser en eller tvåfamiljsbostäder. Exempel på småhus är villor 
+och radhus. Även vissa flerfamiljshus som ligger på lantbruk räknas 
+som småhus. För mer detaljerad information se 
+Fastighetstaxeringslagen (1979:1152). 
+ 
+Sparbanker 
+ 
+Sparbanker är banker, som till skillnad från bankaktiebolag, saknar 
+aktieägare och därmed också aktiekapital. Bildande och organisation av 
+sparbanker regleras i Sparbankslagen (1987:619). Flera sparbanker har 
+ombildats till bankaktiebolag och är därmed inte sparbanker i juridisk 
+mening även om de kan ha kvar ordet sparbank i namnet. De banker 
+som ombildats ingår i statistiken under bankaktiebolag och inte under 
+sparbanker. 
+Sparbankernas tillgångar och skulder presenteras i del 6 .6 samt 6.9 i 
+publikationen Finansmarknadsstatistik. 
+SCB – Ordlista till Finansmarknadsstatistiken 14 av 14 
+ 
+ 
+Sparkonto/Inlåning med restriktioner/Inlåning med villkor 
+ 
+I inlåning med restriktioner ingår inlåning som på något sätt är bunden 
+eller omgärdad av uttagsrestriktioner. Här ingår exempelvis 
+fasträntekonton och konton med begränsat antal fria uttag. Se också 
+inlåning med överenskommen löptid och inlåning med uppsägningstid. 
+ 
+Säkerställda obligationer 
+ 
+Säkerställda obligationer är obligationer som med en egen lag, Lag 
+(2003:1223) om utgivning av säkerställda obligationer, skyddar 
+kreditgivaren bättre än vanliga obligationer. Som säkerhet för 
+obligationerna finns en bestämd mängd svenska bostadslån som med 
+marginal ska överstiga värdet på obligationerna. Till skillnad mot 
+institutets övriga fordringsägare har dessutom obligationsinnehavarna 
+viss rätt till sin del i säkerhetsmassan, om något skulle hända med det 
+emitterande institutet (www.riksbank.se). Möjligheten att ge ut 
+säkerställda obligationer infördes i Sverige 2004. För mer information 
+om säkerställda obligationer se Lag (2003:1223) om utgivning av 
+säkerställda obligationer och Finansinspektionens författningssamling 
+FFFS 2013:1. Säkerställda obligationer särredovisas i del 7.17. i 
+publikationen Finansmarknadsstatistik. 
+ 
+Transaktionskonto med kredit och revolverande lån 
+ 
+Med revolverande lån avses lån med en viss beviljad kredit där krediten 
+kan utnyttjas fritt så länge låntagaren håller sig inom den beviljade 
+krediten. Det behöver inte innebära krav på regelbundna 
+återbetalningar men när lån återbetalas så ökar kreditutrymmet för 
+låntagaren. I kategorin Transaktionskonto med kredit och revolverande 
+lån ingår exempelvis checkräkningskrediter, byggnadskrediter 
+(byggkreditiv), kontokortskrediter och betalkortsfordringar. 
+ 
+Värdepapperisering 
+ 
+Med värdepapperisering åsyftas en process där tillgångar som 
+fastighetslån och företagslån (eller riskerna kopplade till dessa lån) 
+samlas och ompaketeras till värdepapper (kapitalbaserade 
+värdepapper). Det finns två typer av värdepapperisering, traditionell 
+och syntetisk. 
+ 
+Traditionell värdepapperisering sker till exemepl när en bank 
+(initiativtagaren) säljer ej likvida tillgångar (t.ex. lån, med eller utan 
+säkerhet) till en tredje part som finansierar köpet genom emission av 
+värdepapper som garanterats med tillgångarna köpta från banken. 
+SCB – Ordlista till Finansmarknadsstatistiken 15 av 14 
+ 
+ 
+ 
+Värdepappren kan vara publika eller s.k. private placements. Tredje 
+parten som köper lån och emitterar värdepapper går under olika namn 
+som FVC (Financial Vehicle Corporation), SPE (Special Purpose Entity) 
+eller SPV (Special Purpose Vehicle). 
+ 
+Vid syntetisk värdepapperisering överförs kreditrisken till en tredje part 
+men inte de underliggande tillgångarna. 
+ 
+I Sverige är värdepapperisering tämligen ovanligt. I de fall det sker 
+stora förändringar som påverkar statistiken kommenteras detta i 
+fotnot. 
+ 
+Köpta och sålda lån dvs. lån som sålts, köpts, värdepapperiserats eller 
+annars avyttrats eller förvärvats finns redovisade i del 4.2. i 
+publikationen Finansmarknadsstatistik. 
+ 
+Ägarlägenheter 
+ 
+Ägarlägenheter (ägarbostäder) är en fastighetsform där innehavaren 
+äger en enskild lägenhet i ett flerbostadshus. Detta till skillnad mot 
+bostadsrätter där innehavaren är medlem i en ekonomisk förening 
+(bostadsrättsförening) som i sin tur äger fastigheten. I Sverige har 
+ägarlägenheter funnits som upplåtelseform sedan maj 2009. 
+ 
+Övrig borgen 
+ 
+Med övrig borgen avses kreditgaranti som tecknas av fysiska personer 
+eller andra juridiska personer än stat och kommun. Här ingår till 
+exempel lån som garanteras av familjemedlemmar. 
+ 
+Övriga lån (lån efter ändamål) 
+ 
+Övriga lån definieras som lån för "lån som har beviljats för annat än 
+konsumtion och bostadsförvärv, t.ex. affärskrediter, konsolidering av 
+skulder, studielån etc." (ECB/2021/2). Centrala studiestödsnämnden 
+(CSN) är en stor långivare till studenter men klassificeras inte som MFI 
+och ingår därför inte i statistiken. I Sverige samlas inte uppgift om 
+ändamål in direkt utan skattas. Övriga lån omfattar alla lån till 
+hushållens icke-vinstdrivande organisationer och de lån till hushåll 
+som inte kan klassificeras som bostadslån eller konsumtionskrediter. 
+För ytterligare beskrivning av hur ändamål beräknas se del 7. 
+Balansposter. 
