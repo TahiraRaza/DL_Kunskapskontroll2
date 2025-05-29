@@ -399,3 +399,15 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Ignorera VSCode-mappen med inställningar
+.vscode/
+
+# Ignorera Python virtuell miljö
+venv/
+
+# Ignorera Python cache-filer
+__pycache__/
+
+# Ignorera miljövariabelfil
+.env
